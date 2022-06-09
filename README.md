@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rik-tak&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rik-tak&theme=vue)
 
 <!--
 **rik-tak/rik-tak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
